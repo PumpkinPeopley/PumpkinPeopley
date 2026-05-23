@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @PumpkinPeopley
-- 👀 I’m interested in nerdy stuff
-- 🌱 I’m currently learning everything and nothing at the same time
-- 💞️ I’m looking to collaborate on ... nothing😓
-- 📫 How to reach me ...
-- 😄 Pronouns: he/they
-- ⚡ Fun fact: ...
+-:3
+-  Hi, I’m @PumpkinPeopley
+- nerd
+- @pumpkinpeople on discord
+-  Pronouns: any
+-  Fun fact: ive started 10 projects in the past year and havent finished a single one
 
 <!---
 PumpkinPeopley/PumpkinPeopley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
